@@ -43,3 +43,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Remove Element](https://leetcode.com/problems/remove-element/discuss/1405191/C%2B%2B-oror-Code-explained-with-example-oror-100-faster)
 
 --> [Majority Element](https://leetcode.com/problems/majority-element/discuss/1374454/C%2B%2B-oror-Logic-explained-oror-O(n)-time-and-O(1)-space-oror-Easiest-logic)
+
+--> [Ugly Number](https://leetcode.com/problems/ugly-number/discuss/1897011/C%2B%2B-oror-Explained-oror-100-faster) 
