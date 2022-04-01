@@ -49,3 +49,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Reverse String](https://leetcode.com/problems/reverse-string/discuss/1902757/C%2B%2B-oror-Just-3-lines-oror-Two-Solutions)
 
 --> [Reverse String II](https://leetcode.com/problems/reverse-string-ii/discuss/1902890/C%2B%2B-or-Logic-explained-or-Code-explained-or-Beginner-Friendly)
+
+-->[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/1902967/C%2B%2B-oror-Logic-Explained-oror-Code-explained-oror-Beginner-Friendly)
