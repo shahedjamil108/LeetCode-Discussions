@@ -47,3 +47,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Ugly Number](https://leetcode.com/problems/ugly-number/discuss/1897011/C%2B%2B-oror-Explained-oror-100-faster) 
 
 --> [Reverse String](https://leetcode.com/problems/reverse-string/discuss/1902757/C%2B%2B-oror-Just-3-lines-oror-Two-Solutions)
+
+--> [Reverse String II](https://leetcode.com/problems/reverse-string-ii/discuss/1902890/C%2B%2B-or-Logic-explained-or-Code-explained-or-Beginner-Friendly)
