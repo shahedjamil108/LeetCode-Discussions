@@ -53,3 +53,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/1902967/C%2B%2B-oror-Logic-Explained-oror-Code-explained-oror-Beginner-Friendly)
 
 --> [Search Insert Position](https://leetcode.com/problems/search-insert-position/discuss/1903422/C%2B%2B-or-Pure-Binary-Search-or-O(logn)-time)
+
+--> [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/1907486/C%2B%2B-or-Multiset-or-Clean-Code-with-comments)
