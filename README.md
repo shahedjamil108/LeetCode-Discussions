@@ -55,3 +55,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Search Insert Position](https://leetcode.com/problems/search-insert-position/discuss/1903422/C%2B%2B-or-Pure-Binary-Search-or-O(logn)-time)
 
 --> [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/1907486/C%2B%2B-or-Multiset-or-Clean-Code-with-comments)
+
+--> [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/discuss/1911826/C%2B%2B-or-Five-Approaches-Explained-with-Code-or-Beginner-Friendly)
