@@ -59,3 +59,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/discuss/1911826/C%2B%2B-or-Five-Approaches-Explained-with-Code-or-Beginner-Friendly)
 
 --> [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/1913458/Logic-Explained-with-example-or-Time-%3A-O(m%2Bn)-or-Easiest-Approach)
+
+--> [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/discuss/1913743/c-100-faster-clean-code)
