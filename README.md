@@ -63,3 +63,7 @@ Discussion about problems of leetcode and their solutions.
 --> [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/discuss/1913743/c-100-faster-clean-code)
 
 --> [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/discuss/1914235/One-pass-or-Logic-Explained-or-Code-explained-or-C%2B%2B)
+
+--> [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/discuss/1917451/c-stack-code-explained-time-o2n)
+
+--> [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/discuss/1917558/c-explained-every-line-100-faster)
