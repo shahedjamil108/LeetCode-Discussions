@@ -69,3 +69,5 @@ Discussion about problems of leetcode and their solutions.
 --> [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/discuss/1917558/c-explained-every-line-100-faster)
 
 --> [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/1920805/CC%2B%2BJavapython-Logic-explained-or-Pure-Binary-Search-or-100-faster)
+
+--> [ Add Strings](https://leetcode.com/problems/add-strings/discuss/1920891/C%2B%2B-or-Code-Explained-or-Clean-Code)
